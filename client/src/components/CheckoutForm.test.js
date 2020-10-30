@@ -56,3 +56,5 @@ test("form shows success message on submit with form details", async () => {
 
 
 });
+
+const test = 'test for codeGrade'
